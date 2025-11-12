@@ -1,6 +1,6 @@
 # TripMate
 
-TripMate is a web application for planning trips with friends. You can create trips, add friends, manage dates, hotels, and keep track of your plans—all in one place.
+TripMate is a web application for planning trips with friends. You can create trips, add friends, manage dates, hotels, and keep track of your plans and all in one place.
 
 ## Features
 - User authentication (login/register)
